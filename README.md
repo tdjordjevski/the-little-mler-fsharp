@@ -8,4 +8,4 @@ This book is out of print. I was able to find a copy in excellent condition for 
 
 If you've already read [The Little Schemer](https://mitpress.mit.edu/books/little-schemer-fourth-edition), you won't get much out of this book. It will, however, help you start thinking about recursive types. For that alone, I would recommend this book (assuming you can find it at reasonable price).
 
-You may also be interested in [Peter Krumin's repo](https://github.com/pkrumins/the-little-mler). It's more thorough than mine and is written in SML.
+You may also be interested in [Peter Krumins' repo](https://github.com/pkrumins/the-little-mler). It's more thorough than mine and is written in SML.
